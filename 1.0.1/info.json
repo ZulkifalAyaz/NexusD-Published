@@ -1,0 +1,11 @@
+{
+  "company": {
+    "name": "Ali International",
+    "code": "11",
+    "address": "Momin Flats, Basement Floor, Hotel Grand Street, Tehkal Bala, Peshawar",
+    "phone": "03299014502",
+    "email": "info@nexus.com",
+    "next_invoice_no": "111",
+    "next_lot_id": "11"
+  }
+}
