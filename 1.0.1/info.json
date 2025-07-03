@@ -1,0 +1,11 @@
+{
+  "company": {
+    "name": "Medical Solutions",
+    "code": "11",
+    "address": "19 Canal Bank Road, University Town, Peshawar",
+    "phone": "03299014502",
+    "email": "medical.solutions.peshawar@gmail.com",
+    "next_invoice_no": "111",
+    "next_lot_id": "11"
+  }
+}
